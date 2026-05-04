@@ -17,8 +17,6 @@ identify high-risk patients before discharge.
 ## 📊 Dataset
 UCI Diabetes 130-US Hospitals dataset — 25,000+ patient records, 50 features
 
-## 🚀 Project Status
-🔄 In Progress
 
 ## 👩‍💻 Author
 Areesha Mubeen | [LinkedIn](your-linkedin) | [GitHub](https://github.com/AreeshaM)
